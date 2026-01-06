@@ -23,6 +23,8 @@
 
 **Email: Dr. Zi Wang (zi.wang@imperial.ac.uk); Dr. Guang Yang (g.yang@imperial.ac.uk)**
 
+**This is the official code repository of AYangLab and may not be updated in a timely manner. For the latest updates, please refer to the original repository at https://github.com/wangziblake/CardioMM_MMCMR-427K**
+
 
 ## MMCMR-427K database (under construction)
 All clinical CMR datasets from our collection are publicly available at (coming soon ...). Besides, all used public datasets are available on their websites, including https://github.com/CmrxRecon, https://ocmr.info, and https://www.ukbiobank.ac.uk. For UK Biobank, the imaging data and non-imaging participant characteristics are available to approved researchers via a standard application process at http://www.ukbiobank.ac.uk/register-apply. 
