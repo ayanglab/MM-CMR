@@ -23,7 +23,8 @@
 
 **Email: Dr. Zi Wang (zi.wang@imperial.ac.uk); Dr. Guang Yang (g.yang@imperial.ac.uk)**
 
-**This is the official code repository of AYangLab and may not be updated in a timely manner. For the latest updates, please refer to the original repository at https://github.com/wangziblake/CardioMM_MMCMR-427K**
+**This is the official code repository of AYangLab and may not be updated in a timely manner. For the latest updates, please refer to the [original repository](https://github.com/wangziblake/CardioMM_MMCMR-427K)**
+https://github.com/wangziblake/CardioMM_MMCMR-427K
 
 
 ## MMCMR-427K database (under construction)
